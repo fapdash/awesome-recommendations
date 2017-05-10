@@ -1,0 +1,18 @@
+* Awesome recommendations
+  This is a curated list of lists of book and media recommendations curated by notable programmers and software people.
+  The notion of notable programmers is obviously a bit whacky but let's just define them as people working in the field
+  that have either published books, spoken at conferences or have published in academics related to the field. (a successful blog should probably work too)
+  The lists should be curated by the person itself or atleast it should be clear how the list was compiled.
+  The books or the media contained in the list don't have to be software related.
+
+** Lists
+   - http://worrydream.com/Links/ (Bret Viktor)
+   - http://www.squeakland.org/resources/books/readingList.jsp (Alan Kay)
+   - https://blog.codinghorror.com/recommended-reading-for-developers/ (Jeff Atwood)
+   - http://aurellem.org/thoughts/html/sussman-reading-list.html (Prof. Sussman)
+   - https://cs.stanford.edu/~uno/retd.html (Donald Knuth)
+   - https://www.gatesnotes.com/Books#All (Bill Gates)
+   - https://danluu.com/programming-books/ (Dan Luu)
+
+** Reviews
+   - https://www.amazon.com/gp/profile/amzn1.account.AFB67FI7SBPB5FFO5SC3NIAKYBOA (Peter Norvig)
