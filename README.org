@@ -1,8 +1,8 @@
 * Awesome recommendations
   This is a curated list of lists of book and media recommendations curated by notable programmers and software people.
 
-  The notion of notable programmers is obviously a bit whacky but let's just define them as people working in the field
-  that have either published books, spoken at conferences or have published in academics related to the field. (a successful blog should probably work too)
+  The notion of notable programmers is obviously a topic of debate, but for the sake of simplicity it's defined as people working in the field who have received
+  public attention by either publishing writings (e.g. books or papers), spoken at conferences or are running a successful blog.
 
   The lists should be curated by the person itself or atleast it should be clear how the list was compiled.
   The books or the media contained in the list don't have to be software related.
