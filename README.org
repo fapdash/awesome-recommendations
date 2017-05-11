@@ -15,6 +15,9 @@
    - https://cs.stanford.edu/~uno/retd.html (Donald Knuth)
    - https://www.gatesnotes.com/Books#All (Bill Gates)
    - https://danluu.com/programming-books/ (Dan Luu)
+   - http://blog.jayfields.com/2015/06/drop-books.html (Jay Fields)
+   - http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/ (Avdi Grimm)
+
 
 ** Reviews
    - https://www.amazon.com/gp/profile/amzn1.account.AFB67FI7SBPB5FFO5SC3NIAKYBOA (Peter Norvig)
