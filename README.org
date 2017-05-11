@@ -8,11 +8,15 @@
   The books or the media contained in the list don't have to be software related.
 
 ** Lists
-   - http://worrydream.com/Links/ (Bret Viktor)
+   - Bred Viktor
+      - A five-star list spanning different topics:
+        http://worrydream.com/Links/
    - http://www.squeakland.org/resources/books/readingList.jsp (Alan Kay)
    - https://blog.codinghorror.com/recommended-reading-for-developers/ (Jeff Atwood)
    - http://aurellem.org/thoughts/html/sussman-reading-list.html (Prof. Sussman)
-   - https://cs.stanford.edu/~uno/retd.html (Donald Knuth)
+   - Donald Knuth
+      - A list of non-technical books Mr. Knuth enjoyed
+        https://cs.stanford.edu/~uno/retd.html (Donald Knuth)
    - https://www.gatesnotes.com/Books#All (Bill Gates)
    - https://danluu.com/programming-books/ (Dan Luu)
    - http://blog.jayfields.com/2015/06/drop-books.html (Jay Fields)
