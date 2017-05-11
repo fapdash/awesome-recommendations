@@ -1,26 +1,39 @@
 * Awesome recommendations
   This is a curated list of lists of book and media recommendations curated by notable programmers and software people.
 
-  The notion of notable programmers is obviously a bit whacky but let's just define them as people working in the field
-  that have either published books, spoken at conferences or have published in academics related to the field. (a successful blog should probably work too)
+  The notion of notable programmers is obviously a topic of debate, but for the sake of simplicity it's defined as people working in the field who have received
+  public attention by either publishing writings (e.g. books or papers), spoken at conferences or are running a successful blog.
 
   The lists should be curated by the person itself or atleast it should be clear how the list was compiled.
   The books or the media contained in the list don't have to be software related.
 
 ** Lists
-   - http://worrydream.com/Links/ (Bret Viktor)
-   - http://www.squeakland.org/resources/books/readingList.jsp (Alan Kay)
-   - https://blog.codinghorror.com/recommended-reading-for-developers/ (Jeff Atwood)
-   - http://aurellem.org/thoughts/html/sussman-reading-list.html (Prof. Sussman)
-   - https://cs.stanford.edu/~uno/retd.html (Donald Knuth)
-   - https://www.gatesnotes.com/Books#All (Bill Gates)
-   - https://danluu.com/programming-books/ (Dan Luu)
-   - http://blog.jayfields.com/2015/06/drop-books.html (Jay Fields)
-   - http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/ (Avdi Grimm)
+   - Bred Viktor
+      - A five-star list spanning different topics ([[http://worrydream.com/Links/][Link]])
+   - Alan Kay
+      - Covers various topics, curated with the intention of sharing some of the writing that
+        influenced him ([[http://www.squeakland.org/resources/books/readingList.jsp][Link]])
+   - Jeff Atwood  
+      - Collects books on software development and Mr. Woods opinions on why these books matter ([[https://blog.codinghorror.com/recommended-reading-for-developers/][Link]])
+   - Gerald Sussmann
+      - A collection of books and theses with short comments on each entry ([[http://aurellem.org/thoughts/html/sussman-reading-list.html][Link]])
+   - Donald Knuth
+      - A list of non-technical books Mr. Knuth enjoyed ([[https://cs.stanford.edu/~uno/retd.html][Link]])
+   - Bill Gates
+      - Reading lists and a vast collection of selected works on various topics (e.g. Health,
+        Education, Science) with extended comments on each entry (turn off your adblocker for this one) ([[https://www.gatesnotes.com/Books#All][Link]])
+   - Dan Luu
+      - Collects books on software development topics (e.g. Computer Architecture, Algorithms)
+        including comments regarding the relevance of each entry ([[https://danluu.com/programming-books/][Link]])
+   - Jay Fields
+      - Small collection of books that project ideas Mr. Fields deems great ([[http://blog.jayfields.com/2015/06/drop-books.html][Link]])
+   - Avdi Grim
+      - Mr. Grimms top three OO-Programming books ([[http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/][Link]]) 
 
 
 ** Reviews
-   - https://www.amazon.com/gp/profile/amzn1.account.AFB67FI7SBPB5FFO5SC3NIAKYBOA (Peter Norvig)
+   - Peter Norvig
+      - List of Amazon reviews by Mr. Norvig ([[https://www.amazon.com/gp/profile/amzn1.account.AFB67FI7SBPB5FFO5SC3NIAKYBOA][Link]])
 
 * License
 #+ATTR_HTML: alt="CC0 - Public Domain"
