@@ -37,7 +37,7 @@
       - Link: http://blog.jayfields.com/2015/06/drop-books.html
    - Avdi Grim
       - Mr. Grimms top three OO-Programming books
-      - <a href="Link: http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/"Link</a>
+      - <a href="http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/"Link</a>
 
 
 ** Reviews
