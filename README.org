@@ -10,34 +10,34 @@
 ** Lists
    - Bred Viktor
       - A five-star list spanning different topics:
-      - Link: http://worrydream.com/Links/
+      - [[http://worrydream.com/Links/][Link]]
    - Alan Kay
       - Covers various topics, curated with the intention of sharing some of the writing that
         influenced him
-      - Link: http://www.squeakland.org/resources/books/readingList.jsp
+      - [[http://www.squeakland.org/resources/books/readingList.jsp][Link]]
    - Jeff Atwood  
       - Collects books on software development and Mr. Woods opinions on why these books matter
-      - Link: https://blog.codinghorror.com/recommended-reading-for-developers/
+      - [[https://blog.codinghorror.com/recommended-reading-for-developers/][Link]]
    - Gerald Sussmann
       - A collection of books and theses with short comments on each entry
-      - Link: http://aurellem.org/thoughts/html/sussman-reading-list.html
+      - [[http://aurellem.org/thoughts/html/sussman-reading-list.html][Link]]
    - Donald Knuth
       - A list of non-technical books Mr. Knuth enjoyed
-      - Link: https://cs.stanford.edu/~uno/retd.html
+      - [[https://cs.stanford.edu/~uno/retd.html][Link]]
    - Bill Gates
       - Reading lists and a vast collection of selected works on various topics (e.g. Health,
         Education, Science) with extended comments on each entry (tunr off your adblocker for this one)
-      - Link: https://www.gatesnotes.com/Books#All
+      - [[https://www.gatesnotes.com/Books#All][Link]]
    - Dan Luu
       - Collects books on software development topics (e.g. Computer Architecture, Algorithms)
         including comments regarding the relevance of each entry
-      - Link: https://danluu.com/programming-books/
+      - [[https://danluu.com/programming-books/]Link]
    - Jay Fields
       - Small collection of books that project ideas Mr. Fields deems great
-      - Link: http://blog.jayfields.com/2015/06/drop-books.html
+      - [[http://blog.jayfields.com/2015/06/drop-books.html][Link]]
    - Avdi Grim
       - Mr. Grimms top three OO-Programming books
-      - [[http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/][LINK]] 
+      - [[http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/][Link]] 
 
 
 ** Reviews
