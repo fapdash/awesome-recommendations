@@ -35,9 +35,9 @@
    - Jay Fields
       - Small collection of books that project ideas Mr. Fields deems great
       - Link: http://blog.jayfields.com/2015/06/drop-books.html
-   - Avdi Grimm
+   - Avdi Grim
       - Mr. Grimms top three OO-Programming books
-      - Link: http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/ (Avdi Grimm)
+      - <a href="Link: http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/"Link</a>
 
 
 ** Reviews
