@@ -10,21 +10,40 @@
 ** Lists
    - Bred Viktor
       - A five-star list spanning different topics:
-        http://worrydream.com/Links/
-   - http://www.squeakland.org/resources/books/readingList.jsp (Alan Kay)
-   - https://blog.codinghorror.com/recommended-reading-for-developers/ (Jeff Atwood)
-   - http://aurellem.org/thoughts/html/sussman-reading-list.html (Prof. Sussman)
+      - Link: http://worrydream.com/Links/
+   - Alan Kay
+      - Covers various topics, curated with the intention of sharing some of the writing that
+        influenced him
+      - Link: http://www.squeakland.org/resources/books/readingList.jsp
+   - Jeff Atwood  
+      - Collects books on software development and Mr. Woods opinions on why these books matter
+      - Link: https://blog.codinghorror.com/recommended-reading-for-developers/
+   - Gerald Sussmann
+      - A collection of books and theses with short comments on each entry
+      - Link: http://aurellem.org/thoughts/html/sussman-reading-list.html
    - Donald Knuth
       - A list of non-technical books Mr. Knuth enjoyed
-        https://cs.stanford.edu/~uno/retd.html (Donald Knuth)
-   - https://www.gatesnotes.com/Books#All (Bill Gates)
-   - https://danluu.com/programming-books/ (Dan Luu)
-   - http://blog.jayfields.com/2015/06/drop-books.html (Jay Fields)
-   - http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/ (Avdi Grimm)
+      - Link: https://cs.stanford.edu/~uno/retd.html
+   - Bill Gates
+      - Reading lists and a vast collection of selected works on various topics (e.g. Health,
+        Education, Science) with extended comments on each entry (tunr off your adblocker for this one)
+      - Link: https://www.gatesnotes.com/Books#All
+   - Dan Luu
+      - Collects books on software development topics (e.g. Computer Architecture, Algorithms)
+        including comments regarding the relevance of each entry
+      - Link: https://danluu.com/programming-books/
+   - Jay Fields
+      - Small collection of books that project ideas Mr. Fields deems great
+      - Link: http://blog.jayfields.com/2015/06/drop-books.html
+   - Avdi Grimm
+      - Mr. Grimms top three OO-Programming books
+      - Link: http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/ (Avdi Grimm)
 
 
 ** Reviews
-   - https://www.amazon.com/gp/profile/amzn1.account.AFB67FI7SBPB5FFO5SC3NIAKYBOA (Peter Norvig)
+   - Peter Norvig
+      - List of Amazon reviews by Mr. Norvig
+      - Link: https://www.amazon.com/gp/profile/amzn1.account.AFB67FI7SBPB5FFO5SC3NIAKYBOA (Peter Norvig)
 
 * License
 #+ATTR_HTML: alt="CC0 - Public Domain"
