@@ -17,6 +17,8 @@
    - https://danluu.com/programming-books/ (Dan Luu)
    - http://blog.jayfields.com/2015/06/drop-books.html (Jay Fields)
    - http://www.virtuouscode.com/2017/03/21/three-object-oriented-programming-books-worth-reading/ (Avdi Grimm)
+   - https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/ (Gergely Orosz)
+   - https://blog.pragmaticengineer.com/my-reading-list/ (Gergely Orosz)
 
 
 ** Reviews
